@@ -11,7 +11,7 @@ t="\033[0;33m"
 # Print the title using figlet
 echo ""
 figlet -f slant "MaulanaDevtech" | lolcat
-./b.sh | lolcat
+date | lolcat
 # Print the bio description
 echo -e "${y}++++++++++++++++++++++++++++++++++++"
 echo -e "${y}+            ${t}contact us           ${y} +"
