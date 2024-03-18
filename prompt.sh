@@ -36,3 +36,18 @@ echo "+ such as OOP (object oriented programming), list comprehension, and gener
 echo "+ [÷]I am also familiar with several tools and technologies commonly used in the       +"
 echo "+ web development world, such as HTML, CSS, JavaScript, Git, and Docker.               +"
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
+
+#cara memasang prompt versi online lakukan cara berikut ini
+
+#$ apt update && apt upgrade
+#$ pkg install git
+#$ pkg install figlet
+#$ pkg install ruby
+#$ gem install lolcat
+#selanjutnya masukan perintah seperti di bawah untuk mengcloning repository
+#$ git clone https://github.com/MaulanaDevtech422/prompt.sh
+#$ cd prompt.sh
+#$ ls
+#$ chmod +x prompt.sh
+#supaya prompt dapat berjalan maka  ketik perintah di bawah
+#$ ./prompt.sh
